@@ -2,5 +2,7 @@
 
 ### 莫听穿林打叶声，何妨吟啸且徐行
 
-- 📚 C/Python/Java/Kotlin/Java Script
+- 🌖 熬夜写代码一级选手
+- 📚 技术栈：C/Python/Java/Kotlin
 - 🔭 正在开发订阅管理小程序“所订”
+- 💻 持续学习中
